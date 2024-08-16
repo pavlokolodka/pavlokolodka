@@ -33,18 +33,14 @@ I'm Pavlo Kolodka, a passionate Software Engineer with expertise in the followin
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-4B0082?style=flat-square)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](#)
 
-
 🌱 I love learning and exploring new technologies and techniques.
 
 💡 Currently, I'm focusing on backend development using modern tools like Node.js.
 
-📫 You can reach me at [pavelkolodka.dev@gmail.com](mailto:pavelkolodka.dev@gmail.com) or find my other links on the [Site](https://pavlokolodka.github.io/pavlokolodka/).
+📫 You can reach me at [pavelkolodka.dev@gmail.com](mailto:pavelkolodka.dev@gmail.com) or find my other links on the [site](https://pavlokolodka.github.io/pavlokolodka/).
 
 Check out my repositories below to see some of my projects and contributions!
 
 Let's join forces and collaborate on thrilling software engineering ventures!
 
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlokolodka&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10)
