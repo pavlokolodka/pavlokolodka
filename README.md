@@ -41,6 +41,4 @@ I'm Pavlo Kolodka, a passionate Software Engineer with expertise in the followin
 
 Check out my repositories below to see some of my projects and contributions!
 
-Let's join forces and collaborate on thrilling software engineering ventures!
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlokolodka&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10)
