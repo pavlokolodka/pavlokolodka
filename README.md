@@ -37,7 +37,7 @@ I'm Pavlo Kolodka, a passionate Software Engineer with expertise in the followin
 
 💡 Currently, I'm focusing on backend development using modern tools like Node.js.
 
-📫 You can reach me at [pavelkolodka.dev@gmail.com](mailto:pavelkolodka.dev@gmail.com) or find my other links on the [site](https://pavlokolodka.github.io/pavlokolodka/).
+📫 You can find all my other links on the [site](https://pavlokolodka.github.io/pavlokolodka/).
 
 Check out my repositories below to see some of my projects and contributions!
 
